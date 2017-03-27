@@ -3,6 +3,6 @@ Guestbook
 Guestbook is a simple application.
 
 ## Credits
-Amatov Batyi Esenovich
+Akramov Alier
 
-<amatov_b@auca.kg>
+<akramov_a@auca.kg>

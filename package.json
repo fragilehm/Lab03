@@ -1,0 +1,32 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Guestbook is a simple guestbook appliaction\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dc\u001b[C\u001b[C\u001b[D\u001b[D\u001b[a\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dwe\u001b[a\u001b[\u001b[3~\u001b[3~\u001b[D\u001b[C\u001b\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bk appliaction\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D\u001b[Ccation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fragilehm/Lab03.git"
+  },
+  "keywords": [
+    "guestbook"
+  ],
+  "author": "Khasanza Mukhamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fragilehm/Lab03.git/issues"
+  },
+  "homepage": "https://github.com/fragilehm/Lab03.git#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mysql": "^2.13.0",
+    "validator": "^7.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "install": "^0.8.7"
+  }
+}
