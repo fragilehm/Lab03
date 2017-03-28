@@ -16,7 +16,7 @@ gulp.task('db:schema', onFinishTaskCallback => {
 	connection.end(onFinishTaskCallback);
 });
 
-gulp.task('db:tables', ['db:s chema'], onFinishTaskCallback => {
+gulp.task('db:tables', ['db:schema'], onFinishTaskCallback => {
 	const connection = mysql.createConnection({
 		'host':	env['GUESTBOOK_DB_HOST'],
 		'user':	env['GUESTBOOK_DB_USER'],
